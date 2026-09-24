@@ -1,5 +1,7 @@
 cookie.txt
+browser_profile/
 .env
 venv/
+oh_bot.log
 __pycache__/
 *.pyc

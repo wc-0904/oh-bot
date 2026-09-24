@@ -1,0 +1,5 @@
+python-socketio>=4.6,<5
+python-engineio>=3.13,<4
+requests
+python-dotenv
+playwright
